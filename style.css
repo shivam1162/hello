@@ -1,0 +1,26 @@
+
+h1,h2{
+    
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+.place{
+    text-align: center;
+    width: 170px;
+    color: darkblue;
+    background-color: rgb(152, 152, 132);
+    border: 2px solid rgb(197, 156, 156);
+}
+.name{
+    text-align: center;
+    width: 170px;
+    color: black;
+    background-color: beige;
+    border: 2px solid rgb(209, 169, 169);
+}
+.photo{
+    border: 5px solid rgb(67, 20, 0);
+}
